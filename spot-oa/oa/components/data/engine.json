@@ -1,8 +1,10 @@
 {
-    "oa_data_engine":"impala",
+    "oa_data_engine":"hive",
     
     "impala":{
-        "impala_daemon":"node"
+        "impala_daemon":"gmsonidw05"
     },
-    "hive":{}
+    "hive":{
+        "hive_daemon":"gmsonidw05"
+         }
 }

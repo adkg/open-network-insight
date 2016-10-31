@@ -1,14 +1,14 @@
 {
     "gti":{
-            "server" : "<server>",
-            "user" : "<user>",
-            "password" : "<password>",
-            "ci" : "{\"ci\":{\"cliid\":\"<cliid>\", \"prn\":\"<prn>\", \"sdkv\":\"1.0\", \"pv\":\"1.0.0\", \"pev\":1, \"rid\":1, \"affid\":\"0\"},\"q\":[###QUERY###]}",
-            "refclient" : "<refclient location>",
-            "category_file":"<gti_catcodes file location>"
+            "server" : "161.69.165.80",
+            "user" : "int-dux-dev",
+            "password" : "0d52ar50D{6cszTM!q<8V<Iw4GC52/",
+                "ci" : "{\"ci\":{\"cliid\":\"87d8d1082c2f2f821f438b2359b7a5b4\", \"prn\":\"Duxbury\", \"sdkv\":\"1.0\", \"pv\":\"1.0.0\", \"pev\":1, \"rid\":1, \"affid\":\"0\"},\"q\":[###QUERY###]}",
+            "refclient" : "/home/duxbury/glima/refclient/restclient",
+            "category_file":"/home/duxbury/glima/spot/spot-oa/oa/components/reputation/gti/gti_cat_codes.csv"
         },
     "fb":{
-        "app_id" : "<app_id>",
-        "app_secret" : "<app_secret>"
-    }
+            "app_id" : "1691029971172392",
+            "app_secret" : "c7e2c3cff0fae4a49de05b01ac4ae624"
+        }
 }

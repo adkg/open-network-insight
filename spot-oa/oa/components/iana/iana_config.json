@@ -1,9 +1,9 @@
 {
     "IANA": {
-                        "dns_qry_class":"dns-qclass.csv",
-                        "dns_qry_type":"dns-qtype.csv",
-                        "dns_qry_rcode":"dns-rcode.csv",
-                        "proxy_http_rcode":"http-rcode.csv"
+                        "dns_qry_class":"/home/duxbury/glima/config_oni-oa/oa/components/iana/dns-qclass.csv",
+                        "dns_qry_type":"/home/duxbury/glima/config_oni-oa/oa/components/iana/dns-qtype.csv",
+                        "dns_qry_rcode":"/home/duxbury/glima/config_oni-oa/oa/components/iana/dns-rcode.csv",
+                        "proxy_http_rcode":"/home/duxbury/glima/config_oni-oa/oa/components/iana/http-rcode.csv"
                 }
 }
 
