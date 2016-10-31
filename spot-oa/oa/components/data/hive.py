@@ -2,8 +2,7 @@ from subprocess import check_output
 
 class Engine(object):
 
-    def __init__(self,db,conf, pipeline):
-        self._daemon_node = conf['hive_daemon']
+    def __init__(self,db,conf, pipeline): 
         self._db = db
         self._pipeline = pipeline
 
